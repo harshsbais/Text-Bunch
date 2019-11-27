@@ -3,6 +3,7 @@ import os, sys, subprocess, webbrowser
 from tkinter import filedialog, Text
 
 root = tk.Tk()
+root.title("Text Bunch")
 apps = []
 
 def addApp():
