@@ -8,7 +8,7 @@ This script will open many .txt at once and it also has a MacOS compatible GUI a
 
 
 ## Installation
-`pip install -r requirements.txt`
+No extra installation is required expect Python
 
 
 
