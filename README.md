@@ -15,7 +15,7 @@ No extra installation is required expect Python
 
 After installed required package, you can use it by
 `python testapp.py`
-If you are on MacOS you can also go to the releases section and download the .dmg file.
+If you are on MacOS you can also go to the releases section and download the .app.zip file.
 
 
 
